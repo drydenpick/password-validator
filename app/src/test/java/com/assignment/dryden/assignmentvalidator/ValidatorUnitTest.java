@@ -1,7 +1,5 @@
 package com.assignment.dryden.assignmentvalidator;
-
 import org.junit.Test;
-import com.assignment.dryden.assignmentvalidator.Validator;
 import static org.junit.Assert.assertEquals;
 /**
  * @see <a href="http://d.android.com/tools/testing">Testing documentation</a>
